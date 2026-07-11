@@ -13,7 +13,7 @@
   </a>
   &nbsp;
   <a href="https://x.com/Severitech_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Douglas6631-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Severitech_dev-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Santa%20Cruz%2C%20Bolivia-f5a623?style=for-the-badge" />
