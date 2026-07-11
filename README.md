@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://x.com/Douglas6631" target="_blank">
+  <a href="https://x.com/Severitech_dev" target="_blank">
     <img src="https://img.shields.io/badge/Douglas6631-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
@@ -89,7 +89,6 @@ const douglas: Developer = {
 | [Generador de QR](https://douglaspadilla.dev) | Herramienta para generar codigos QR personalizables | React · TailwindCSS |
 | [Landing Page Banco](https://douglaspadilla.dev) | Landing page responsiva con diseno moderno y animaciones | React · TailwindCSS |
 
-> Los links de cada proyecto los puedes actualizar con las URLs reales de tu portafolio o repositorios.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
